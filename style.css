@@ -1,11 +1,13 @@
 .jumbotron {
 	height: 300px;
-	background-image: url(jumbotron.jpeg), url(poulet.jpeg);
+	background-image: url(jumbotron.jpeg);
 	background-size: cover;
+	background-repeat: no-repeat;
 	text-align: center;
 	color: white;
 	background-position: center;
-	text-shadow: black 0.3em 0.3em 0.3em;
+	text-shadow: #000000 1px -1px, #000000 -1px 1px, #000000 -1px 1px, #000000 1px -1px;
+	font-family: 
 }
 
 
